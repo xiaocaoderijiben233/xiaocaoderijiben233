@@ -8,7 +8,8 @@ p   {
             color: red;
 }
 
-p.purple {
-            color: purple;
+.purple {
+            color: rgb(235, 247, 10);
 }
+
 

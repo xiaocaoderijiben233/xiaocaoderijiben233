@@ -1,7 +1,23 @@
+@font-face {
+            font-family:shouyeziti;
+            src: URL("shouyeziti.ttf");
+}
+
+@font-face {
+                font-family:h1ziti;
+                src:URL("h1ziti.ttf")
+}
+
+
+body {
+        font-family: shouyeziti,sans-serif;
+        font-size: medium;
+}
 h1 {
             border-bottom: 1px solid black;
             color: green;
-
+            font-family: h1ziti,sans-serif;
+            font-size: 1.9em;
         }
 
 p   {
